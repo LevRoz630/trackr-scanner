@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch listings from Trackr's API, diff against previous state, email new ones."""
+"""Fetch listings from Trackr's API, notify when applications open."""
 
 import itertools
 import json
@@ -24,7 +24,7 @@ def load_state():
     if STATE_FILE.exists():
         with open(STATE_FILE) as f:
             return json.load(f)
-    return {"listings": {}, "last_run": None}
+    return {"notified": {}, "last_run": None}
 
 
 def save_state(state):
@@ -57,37 +57,41 @@ def listing_key(item):
     return f"{item['companyId']}|{item['name']}|{item['type']}"
 
 
-def find_new(current, previous_keys):
-    return [item for item in current if listing_key(item) not in previous_keys]
+def is_open(item, today):
+    """Application is open: opening date has passed and closing date hasn't."""
+    opening = item.get("openingDate")
+    closing = item.get("closingDate")
+    if not opening:
+        return False
+    if opening[:10] > today:
+        return False
+    if closing and closing[:10] < today:
+        return False
+    return True
 
 
-def format_email(new_listings, watchlist_slugs):
-    priority = [l for l in new_listings if l["companyId"] in watchlist_slugs]
-    other = [l for l in new_listings if l["companyId"] not in watchlist_slugs]
-
-    lines = [f"{len(new_listings)} new listings on Trackr — {date.today().isoformat()}\n"]
+def format_email(listings, watchlist_slugs):
+    lines = [f"{len(listings)} applications just opened — {date.today().isoformat()}\n"]
 
     def fmt(l):
-        company = l.get("company", {}).get("name", l["companyId"])
+        company = (l.get("company") or {}).get("name", l["companyId"])
         closing = l.get("closingDate")
-        if closing:
-            deadline = closing[:10]
-        elif l.get("rolling"):
-            deadline = "Rolling"
-        else:
-            deadline = "?"
-        line = f"- {company} — {l['name']} | Deadline: {deadline} | {l.get('type', '')}"
+        deadline = closing[:10] if closing else ("Rolling" if l.get("rolling") else "?")
+        star = " *" if l["companyId"] in watchlist_slugs else ""
+        line = f"- {company}{star} — {l['name']} | Closes: {deadline}"
         if l.get("url"):
             line += f"\n  {l['url']}"
         return line
 
+    priority = [l for l in listings if l["companyId"] in watchlist_slugs]
+    other = [l for l in listings if l["companyId"] not in watchlist_slugs]
+
     if priority:
-        lines.append(f"=== WATCHLIST ({len(priority)}) ===\n")
+        lines.append(f"WATCHLIST ({len(priority)})\n")
         lines.extend(fmt(l) for l in priority)
         lines.append("")
-
     if other:
-        lines.append(f"=== Other ({len(other)}) ===\n")
+        lines.append(f"OTHER ({len(other)})\n")
         lines.extend(fmt(l) for l in other)
 
     return "\n".join(lines)
@@ -124,11 +128,11 @@ def send_email(subject, body, config):
 def main():
     config = load_config()
     state = load_state()
-    previous_keys = set(state.get("listings", {}).keys())
+    already_notified = set(state.get("notified", {}).keys())
     watchlist = set(config.get("watchlist", []))
 
-    current_keys = {}
-    all_current = []
+    today = date.today().isoformat()
+    all_listings = []
 
     regions = config.get("regions", ["UK"])
     industries = config.get("industries", ["Finance"])
@@ -141,38 +145,37 @@ def main():
         try:
             listings = fetch_listings(region, industry, season, typ)
             print(f"  {len(listings)} listings")
-            all_current.extend(listings)
-            for item in listings:
-                current_keys[listing_key(item)] = {
-                    "company": item.get("company", {}).get("name", item["companyId"]),
-                    "programme": item["name"],
-                    "type": item["type"],
-                    "closingDate": item.get("closingDate"),
-                }
+            all_listings.extend(listings)
         except Exception as e:
             print(f"  Error: {e}")
 
-    # filter out expired
-    today = date.today().isoformat()
-    new_open = [
-        l
-        for l in find_new(all_current, previous_keys)
-        if not l.get("closingDate") or l["closingDate"][:10] >= today
+    # find listings that are currently open and we haven't notified about
+    newly_open = [
+        l for l in all_listings
+        if is_open(l, today) and listing_key(l) not in already_notified
     ]
 
-    print(f"\nTotal: {len(current_keys)} | Known: {len(previous_keys)} | New: {len(new_open)}")
+    print(f"\nTotal: {len(all_listings)} | Already notified: {len(already_notified)} | Newly open: {len(newly_open)}")
 
-    state["listings"] = current_keys
+    # mark these as notified
+    notified = state.get("notified", {})
+    for l in newly_open:
+        notified[listing_key(l)] = {
+            "company": (l.get("company") or {}).get("name", l["companyId"]),
+            "programme": l["name"],
+            "notified_on": today,
+        }
+    state["notified"] = notified
     save_state(state)
 
-    if not previous_keys:
+    if not already_notified:
         print("First run — baseline saved, no notification sent")
-    elif new_open:
-        body = format_email(new_open, watchlist)
-        subject = f"Trackr: {len(new_open)} new listing{'s' if len(new_open) != 1 else ''}"
+    elif newly_open:
+        body = format_email(newly_open, watchlist)
+        subject = f"Trackr: {len(newly_open)} application{'s' if len(newly_open) != 1 else ''} opened"
         send_email(subject, body, config)
     else:
-        print("No new listings")
+        print("No new openings")
 
 
 if __name__ == "__main__":
