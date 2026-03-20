@@ -1,0 +1,45 @@
+# What to scan — each entry hits the Trackr API once
+scans:
+  - region: UK
+    industry: Finance
+    season: "2026"
+    type: summer-internships
+  - region: UK
+    industry: Finance
+    season: "2026"
+    type: spring-weeks
+  - region: UK
+    industry: Finance
+    season: "2026"
+    type: off-cycle-internships
+  - region: UK
+    industry: Finance
+    season: "2026"
+    type: events
+
+# Companies to highlight at the top of notifications (Trackr company slugs)
+watchlist:
+  - citadel
+  - citadel-securities
+  - jane-street
+  - hrt
+  - imc
+  - optiver
+  - sig
+  - jump-trading
+  - point72
+  - de-shaw
+  - two-sigma
+  - squarepoint-capital
+  - qrt
+  - capula
+  - millennium
+  - man-group
+  - g-research
+  - xtx-markets
+  - flow-traders
+  - goldman-sachs
+  - morgan-stanley
+
+# Where to send notifications (can also be set via NOTIFY_EMAIL env var)
+# email: you@example.com
