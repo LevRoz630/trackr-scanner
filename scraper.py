@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Fetch UK finance listings from Trackr's API, diff against previous state, email new ones."""
+"""Fetch listings from Trackr's API, diff against previous state, email new ones."""
 
+import itertools
 import json
 import os
-import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -130,13 +130,16 @@ def main():
     current_keys = {}
     all_current = []
 
-    for scan in config["scans"]:
-        label = f"{scan['region']} {scan['industry']} {scan['type']} {scan['season']}"
+    regions = config.get("regions", ["UK"])
+    industries = config.get("industries", ["Finance"])
+    seasons = config.get("seasons", ["2026"])
+    types = config.get("types", ["summer-internships"])
+
+    for region, industry, season, typ in itertools.product(regions, industries, seasons, types):
+        label = f"{region} {industry} {typ} {season}"
         print(f"Fetching {label}...")
         try:
-            listings = fetch_listings(
-                scan["region"], scan["industry"], scan["season"], scan["type"]
-            )
+            listings = fetch_listings(region, industry, season, typ)
             print(f"  {len(listings)} listings")
             all_current.extend(listings)
             for item in listings:
