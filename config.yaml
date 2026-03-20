@@ -1,11 +1,9 @@
 # What to scan — the scraper queries every combination of these
-regions: [UK]                # UK, NA, EU
-industries: [Finance]        # Finance, Technology, Law
-seasons: ["2026"]            # year as string
-types:                       # which programme types to track
-  - summer-internships
+regions: [UK]                        # UK, NA, EU
+industries: [Finance, Technology]    # Finance, Technology, Law
+seasons: ["2026"]
+types:
   - spring-weeks
-  - off-cycle-internships
   - events
 
 # Companies to highlight at the top of notifications (Trackr company slugs)
