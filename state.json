@@ -1,1 +1,270 @@
-{"notified": {}, "last_run": null}
+{
+  "notified": {
+    "howden|Adventure: Exploring Reinsurance|spring-weeks": {
+      "company": "Howden",
+      "programme": "Adventure: Exploring Reinsurance",
+      "notified_on": "2026-03-21"
+    },
+    "ripple|Quantitative Trading Intern (Summer 2026)|spring-weeks": {
+      "company": "Ripple",
+      "programme": "Quantitative Trading Intern (Summer 2026)",
+      "notified_on": "2026-03-21"
+    },
+    "retail-insights|Management Consulting Internship|spring-weeks": {
+      "company": "Retail Insights",
+      "programme": "Management Consulting Internship",
+      "notified_on": "2026-03-21"
+    },
+    "just|Actuarial Summer Intern (July 2026)|spring-weeks": {
+      "company": "Just",
+      "programme": "Actuarial Summer Intern (July 2026)",
+      "notified_on": "2026-03-21"
+    },
+    "bp|Discovery Week 2026|spring-weeks": {
+      "company": "BP",
+      "programme": "Discovery Week 2026",
+      "notified_on": "2026-03-21"
+    },
+    "saltgate|Summer Programme 2026|spring-weeks": {
+      "company": "Saltgate",
+      "programme": "Summer Programme 2026",
+      "notified_on": "2026-03-21"
+    },
+    "coinbase|Internal Audit Intern|spring-weeks": {
+      "company": "Coinbase",
+      "programme": "Internal Audit Intern",
+      "notified_on": "2026-03-21"
+    },
+    "canary-wharf-group|Internship Programme 2026|spring-weeks": {
+      "company": "Canary Wharf Group",
+      "programme": "Internship Programme 2026",
+      "notified_on": "2026-03-21"
+    },
+    "mckinsey-company|Future Black Leaders|spring-weeks": {
+      "company": "McKinsey & Company",
+      "programme": "Future Black Leaders",
+      "notified_on": "2026-03-21"
+    },
+    "tencent|Business Development Intern|spring-weeks": {
+      "company": "Tencent",
+      "programme": "Business Development Intern",
+      "notified_on": "2026-03-21"
+    },
+    "millennium-management|Millennium Investment Internship 2027|spring-weeks": {
+      "company": "Millennium Management",
+      "programme": "Millennium Investment Internship 2027",
+      "notified_on": "2026-03-21"
+    },
+    "natixis|Intern, UK Corporate Coverage|spring-weeks": {
+      "company": "Natixis",
+      "programme": "Intern, UK Corporate Coverage",
+      "notified_on": "2026-03-21"
+    },
+    "imc-trading|Launchpad Programme - Trading|spring-weeks": {
+      "company": "IMC Trading",
+      "programme": "Launchpad Programme - Trading",
+      "notified_on": "2026-03-21"
+    },
+    "point72|2027 Academy Investment Summer Internship|spring-weeks": {
+      "company": "Point72",
+      "programme": "2027 Academy Investment Summer Internship",
+      "notified_on": "2026-03-21"
+    },
+    "gsa-capital|Women in Trading Insight Programme|spring-weeks": {
+      "company": "GSA Capital",
+      "programme": "Women in Trading Insight Programme",
+      "notified_on": "2026-03-21"
+    },
+    "augusta-co|Investment Banking Analyst Interns|spring-weeks": {
+      "company": "Augusta & Co",
+      "programme": "Investment Banking Analyst Interns",
+      "notified_on": "2026-03-21"
+    },
+    "isidor|Intern|spring-weeks": {
+      "company": "Isidor",
+      "programme": "Intern",
+      "notified_on": "2026-03-21"
+    },
+    "nationwide|2026 Summer Internship|spring-weeks": {
+      "company": "Nationwide",
+      "programme": "2026 Summer Internship",
+      "notified_on": "2026-03-21"
+    },
+    "citco|12 Week Fund Services Internship|spring-weeks": {
+      "company": "Citco",
+      "programme": "12 Week Fund Services Internship",
+      "notified_on": "2026-03-21"
+    },
+    "marshall-wace|Women in Quant Investing - Spring Insights Day 2026|spring-weeks": {
+      "company": "Marshall Wace",
+      "programme": "Women in Quant Investing - Spring Insights Day 2026",
+      "notified_on": "2026-03-21"
+    },
+    "legal-general|Spring Start 2026|spring-weeks": {
+      "company": "Legal & General",
+      "programme": "Spring Start 2026",
+      "notified_on": "2026-03-21"
+    },
+    "baker-hughes|Emerging Talent \u2013 Finance 2026 Opportunities|spring-weeks": {
+      "company": "Baker Hughes",
+      "programme": "Emerging Talent \u2013 Finance 2026 Opportunities",
+      "notified_on": "2026-03-21"
+    },
+    "greystar|2026 Summer Internship|spring-weeks": {
+      "company": "Greystar",
+      "programme": "2026 Summer Internship",
+      "notified_on": "2026-03-21"
+    },
+    "blockchain-com|Finance Summer Intern|spring-weeks": {
+      "company": "Blockchain.com",
+      "programme": "Finance Summer Intern",
+      "notified_on": "2026-03-21"
+    },
+    "private-equity-insights|Global Internship Program|spring-weeks": {
+      "company": "Private Equity Insights",
+      "programme": "Global Internship Program",
+      "notified_on": "2026-03-21"
+    },
+    "mckinsey-company|Future Talent Programme|spring-weeks": {
+      "company": "McKinsey & Company",
+      "programme": "Future Talent Programme",
+      "notified_on": "2026-03-21"
+    },
+    "citi|2026 Citi Insight Programme|spring-weeks": {
+      "company": "Citi",
+      "programme": "2026 Citi Insight Programme",
+      "notified_on": "2026-03-21"
+    },
+    "pimco|PIMCO Prep 2026|spring-weeks": {
+      "company": "PIMCO",
+      "programme": "PIMCO Prep 2026",
+      "notified_on": "2026-03-21"
+    },
+    "nextwave-consulting|Financial Markets Intern 2026|spring-weeks": {
+      "company": "NextWave Consulting",
+      "programme": "Financial Markets Intern 2026",
+      "notified_on": "2026-03-21"
+    },
+    "cfo-insights|Management Consulting Internship|spring-weeks": {
+      "company": "CFO Insights",
+      "programme": "Management Consulting Internship",
+      "notified_on": "2026-03-21"
+    },
+    "colliers|Summer Internship Programme 2026|spring-weeks": {
+      "company": "Colliers",
+      "programme": "Summer Internship Programme 2026",
+      "notified_on": "2026-03-21"
+    },
+    "the-dot-group|2026 Summer Internship Programme|spring-weeks": {
+      "company": "The Dot Group",
+      "programme": "2026 Summer Internship Programme",
+      "notified_on": "2026-03-21"
+    },
+    "barclays|Discovery Programme 2026|spring-weeks": {
+      "company": "Barclays",
+      "programme": "Discovery Programme 2026",
+      "notified_on": "2026-03-21"
+    },
+    "citadel|The Europe Terminal|events": {
+      "company": "Citadel",
+      "programme": "The Europe Terminal",
+      "notified_on": "2026-03-21"
+    },
+    "willis-towers-watson|2026 Level Up Two-Day Insight Event|events": {
+      "company": "WTW",
+      "programme": "2026 Level Up Two-Day Insight Event",
+      "notified_on": "2026-03-21"
+    },
+    "rothschild-co|2026 Black Heritage Insight Day|events": {
+      "company": "Rothschild & Co.",
+      "programme": "2026 Black Heritage Insight Day",
+      "notified_on": "2026-03-21"
+    },
+    "glencore|Commodities Trading Insight Event (Bath)|events": {
+      "company": "Glencore",
+      "programme": "Commodities Trading Insight Event (Bath)",
+      "notified_on": "2026-03-21"
+    },
+    "imc-trading|Prosperity 4|events": {
+      "company": "IMC Trading",
+      "programme": "Prosperity 4",
+      "notified_on": "2026-03-21"
+    },
+    "worldquant|International Quant Championship 2026|events": {
+      "company": "WorldQuant",
+      "programme": "International Quant Championship 2026",
+      "notified_on": "2026-03-21"
+    },
+    "stepstone-group|Private Markets Insight Day|events": {
+      "company": "StepStone Group",
+      "programme": "Private Markets Insight Day",
+      "notified_on": "2026-03-21"
+    },
+    "alphasights|Women in Leadership Forum 2026|events": {
+      "company": "AlphaSights",
+      "programme": "Women in Leadership Forum 2026",
+      "notified_on": "2026-03-21"
+    },
+    "m-g|Shape Your Future: An Insight Into M&G|events": {
+      "company": "M&G",
+      "programme": "Shape Your Future: An Insight Into M&G",
+      "notified_on": "2026-03-21"
+    },
+    "imc-trading|Launchpad Programme \u2013 Technology|spring-weeks": {
+      "company": "IMC Trading",
+      "programme": "Launchpad Programme \u2013 Technology",
+      "notified_on": "2026-03-21"
+    },
+    "treefera|Treefera Internship Programme|spring-weeks": {
+      "company": "Treefera",
+      "programme": "Treefera Internship Programme",
+      "notified_on": "2026-03-21"
+    },
+    "roku|Software Engineer Intern|spring-weeks": {
+      "company": "Roku",
+      "programme": "Software Engineer Intern",
+      "notified_on": "2026-03-21"
+    },
+    "gsa-capital|Women in Technology Insight Programme|spring-weeks": {
+      "company": "GSA Capital",
+      "programme": "Women in Technology Insight Programme",
+      "notified_on": "2026-03-21"
+    },
+    "barclays|Technology Discovery Programme 2026|spring-weeks": {
+      "company": "Barclays",
+      "programme": "Technology Discovery Programme 2026",
+      "notified_on": "2026-03-21"
+    },
+    "bank-of-america|SWE Insight Programme 2026 - Dublin|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "SWE Insight Programme 2026 - Dublin",
+      "notified_on": "2026-03-21"
+    },
+    "convergent|Software Engineer Intern|spring-weeks": {
+      "company": "Convergent",
+      "programme": "Software Engineer Intern",
+      "notified_on": "2026-03-21"
+    },
+    "mongodb|2026 - Women in Tech, EMEA|spring-weeks": {
+      "company": "MongoDB",
+      "programme": "2026 - Women in Tech, EMEA",
+      "notified_on": "2026-03-21"
+    },
+    "marshall-wace|Technology Intern - Summer 2026|spring-weeks": {
+      "company": "Marshall Wace",
+      "programme": "Technology Intern - Summer 2026",
+      "notified_on": "2026-03-21"
+    },
+    "cisco|Let\u2019s Talk Interviews: Learn, Practice and Elevate Your Interview Game|events": {
+      "company": "Cisco",
+      "programme": "Let\u2019s Talk Interviews: Learn, Practice and Elevate Your Interview Game",
+      "notified_on": "2026-03-21"
+    },
+    "google|Google Summer of Code 2026|events": {
+      "company": "Google",
+      "programme": "Google Summer of Code 2026",
+      "notified_on": "2026-03-21"
+    }
+  },
+  "last_run": "2026-03-21T09:05:41.023170+00:00"
+}
