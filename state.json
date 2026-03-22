@@ -264,7 +264,12 @@
       "company": "Google",
       "programme": "Google Summer of Code 2026",
       "notified_on": "2026-03-21"
+    },
+    "citi|London Office Open Day|events": {
+      "company": "Citi",
+      "programme": "London Office Open Day",
+      "notified_on": "2026-03-22"
     }
   },
-  "last_run": "2026-03-21T09:05:41.023170+00:00"
+  "last_run": "2026-03-22T09:06:03.431972+00:00"
 }
