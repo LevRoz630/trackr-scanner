@@ -284,7 +284,17 @@
       "company": "Glencore",
       "programme": "Commodities Trading Insight Event (London)",
       "notified_on": "2026-03-25"
+    },
+    "ryan|Ryan Tax Internship Programme|spring-weeks": {
+      "company": "Ryan",
+      "programme": "Ryan Tax Internship Programme",
+      "notified_on": "2026-03-26"
+    },
+    "binome|AI Engineer Intern|spring-weeks": {
+      "company": "Binome",
+      "programme": "AI Engineer Intern",
+      "notified_on": "2026-03-26"
     }
   },
-  "last_run": "2026-03-25T09:15:17.187476+00:00"
+  "last_run": "2026-03-26T09:18:14.621865+00:00"
 }
