@@ -309,7 +309,22 @@
       "company": "Climate Investment",
       "programme": "2026 Summer Intern",
       "notified_on": "2026-03-31"
+    },
+    "natwest-markets|Insight Experience|spring-weeks": {
+      "company": "NatWest Markets",
+      "programme": "Insight Experience",
+      "notified_on": "2026-04-02"
+    },
+    "nomura|An Insight into our Internship Evening 2026|events": {
+      "company": "Nomura",
+      "programme": "An Insight into our Internship Evening 2026",
+      "notified_on": "2026-04-02"
+    },
+    "natwest-markets|Tech Insight Experience for Women - Engineering|spring-weeks": {
+      "company": "NatWest Markets",
+      "programme": "Tech Insight Experience for Women - Engineering",
+      "notified_on": "2026-04-02"
     }
   },
-  "last_run": "2026-04-01T09:22:38.762859+00:00"
+  "last_run": "2026-04-02T09:18:45.403190+00:00"
 }
