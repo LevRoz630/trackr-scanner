@@ -354,7 +354,17 @@
       "company": "Trackr",
       "programme": "Content Video Editor",
       "notified_on": "2026-04-19"
+    },
+    "deloitte|Women who Audit: Step into Summer|spring-weeks": {
+      "company": "Deloitte",
+      "programme": "Women who Audit: Step into Summer",
+      "notified_on": "2026-04-28"
+    },
+    "superbet|Sports Quantitative Analyst Intern|spring-weeks": {
+      "company": "Superbet",
+      "programme": "Sports Quantitative Analyst Intern",
+      "notified_on": "2026-04-28"
     }
   },
-  "last_run": "2026-04-27T09:41:34.716427+00:00"
+  "last_run": "2026-04-28T09:43:49.820328+00:00"
 }
