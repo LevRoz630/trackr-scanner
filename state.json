@@ -389,7 +389,12 @@
       "company": "Glencore",
       "programme": "Virtual Women in Tech Insight Session",
       "notified_on": "2026-05-12"
+    },
+    "quadrature|Fullhouse Quant Poker Hackathon 2026|events": {
+      "company": "Quadrature",
+      "programme": "Fullhouse Quant Poker Hackathon 2026",
+      "notified_on": "2026-05-13"
     }
   },
-  "last_run": "2026-05-12T09:51:31.162191+00:00"
+  "last_run": "2026-05-13T09:51:40.972360+00:00"
 }
