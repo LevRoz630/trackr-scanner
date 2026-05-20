@@ -409,7 +409,12 @@
       "company": "Morgan Stanley",
       "programme": "Launch Your Career: Morgan Stanley Internships",
       "notified_on": "2026-05-15"
+    },
+    "warburg-pincus|Analyst Programme Webinar|events": {
+      "company": "Warburg Pincus",
+      "programme": "Analyst Programme Webinar",
+      "notified_on": "2026-05-20"
     }
   },
-  "last_run": "2026-05-19T10:14:40.760739+00:00"
+  "last_run": "2026-05-20T10:05:44.296349+00:00"
 }
