@@ -434,7 +434,12 @@
       "company": "Box",
       "programme": "How to Start a Career in SaaS",
       "notified_on": "2026-05-22"
+    },
+    "trackr|2026 Summer Academy|spring-weeks": {
+      "company": "Trackr",
+      "programme": "2026 Summer Academy",
+      "notified_on": "2026-05-24"
     }
   },
-  "last_run": "2026-05-23T09:31:37.244671+00:00"
+  "last_run": "2026-05-24T09:34:20.504138+00:00"
 }
