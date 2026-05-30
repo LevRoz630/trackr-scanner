@@ -444,7 +444,12 @@
       "company": "BNP Paribas",
       "programme": "Virtual Insight Series",
       "notified_on": "2026-05-28"
+    },
+    "expedia|Career Discovery Program - Software Development - 2026|spring-weeks": {
+      "company": "Expedia",
+      "programme": "Career Discovery Program - Software Development - 2026",
+      "notified_on": "2026-05-30"
     }
   },
-  "last_run": "2026-05-29T10:17:56.475392+00:00"
+  "last_run": "2026-05-30T09:34:32.480295+00:00"
 }
