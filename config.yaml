@@ -1,10 +1,11 @@
 # What to scan — the scraper queries every combination of these
-regions: [UK]                        # UK, NA, EU
+regions: [UK, EU]                    # UK, NA, EU
 industries: [Finance, Technology]    # Finance, Technology, Law
 seasons: ["2027"]
 types:
   - spring-weeks
   - events
+  - summer-internships
 
 # Companies to highlight at the top of notifications (Trackr company slugs)
 watchlist:
