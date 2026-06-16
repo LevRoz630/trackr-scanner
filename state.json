@@ -1,4 +1,50 @@
 {
-  "notified": {},
-  "last_run": null
+  "notified": {
+    "amplifyme|2026 In-Person Finance Bootcamp|spring-weeks": {
+      "company": "AmplifyME",
+      "programme": "2026 In-Person Finance Bootcamp",
+      "notified_on": "2026-06-16"
+    },
+    "gic|GIC Internship Programme 2027|spring-weeks": {
+      "company": "GIC",
+      "programme": "GIC Internship Programme 2027",
+      "notified_on": "2026-06-16"
+    },
+    "gsa-capital|Women in Trading Insight Programme - 2027|spring-weeks": {
+      "company": "GSA Capital",
+      "programme": "Women in Trading Insight Programme - 2027",
+      "notified_on": "2026-06-16"
+    },
+    "morgan-stanley|Launch Your Career: Morgan Stanley Internships|events": {
+      "company": "Morgan Stanley",
+      "programme": "Launch Your Career: Morgan Stanley Internships",
+      "notified_on": "2026-06-16"
+    },
+    "p-g|P&G Virtual Insight Week|events": {
+      "company": "P&G",
+      "programme": "P&G Virtual Insight Week",
+      "notified_on": "2026-06-16"
+    },
+    "rothschild-co|2026 Discover Rothschild & Co Summer Insight Day|events": {
+      "company": "Rothschild & Co.",
+      "programme": "2026 Discover Rothschild & Co Summer Insight Day",
+      "notified_on": "2026-06-16"
+    },
+    "bnp-paribas|Virtual Insight Series|events": {
+      "company": "BNP Paribas",
+      "programme": "Virtual Insight Series",
+      "notified_on": "2026-06-16"
+    },
+    "ubs|Explore Careers in Banking|events": {
+      "company": "UBS",
+      "programme": "Explore Careers in Banking",
+      "notified_on": "2026-06-16"
+    },
+    "glencore|Stand Out with Glencore UK: CV & Interview Workshop|events": {
+      "company": "Glencore",
+      "programme": "Stand Out with Glencore UK: CV & Interview Workshop",
+      "notified_on": "2026-06-16"
+    }
+  },
+  "last_run": "2026-06-16T21:22:27.064656+00:00"
 }
