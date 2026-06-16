@@ -1,7 +1,7 @@
 # What to scan — the scraper queries every combination of these
 regions: [UK]                        # UK, NA, EU
 industries: [Finance, Technology]    # Finance, Technology, Law
-seasons: ["2026"]
+seasons: ["2027"]
 types:
   - spring-weeks
   - events
