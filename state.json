@@ -129,7 +129,22 @@
       "company": "Morgan Stanley",
       "programme": "2026 EMEA Virtual Event Series",
       "notified_on": "2026-06-29"
+    },
+    "blackrock|2027 Spring Insight Event - EMEA|spring-weeks": {
+      "company": "BlackRock",
+      "programme": "2027 Spring Insight Event - EMEA",
+      "notified_on": "2026-06-30"
+    },
+    "aon|Aon Early Careers Showcase 2026|events": {
+      "company": "Aon",
+      "programme": "Aon Early Careers Showcase 2026",
+      "notified_on": "2026-06-30"
+    },
+    "blackrock|2027 Summer Internship Program - EMEA|summer-internships": {
+      "company": "BlackRock",
+      "programme": "2027 Summer Internship Program - EMEA",
+      "notified_on": "2026-06-30"
     }
   },
-  "last_run": "2026-06-29T10:31:10.666812+00:00"
+  "last_run": "2026-06-30T10:11:14.739228+00:00"
 }
