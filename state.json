@@ -144,7 +144,17 @@
       "company": "BlackRock",
       "programme": "2027 Summer Internship Program - EMEA",
       "notified_on": "2026-06-30"
+    },
+    "optiver|Meet Optiver: Summer Evening at Sky Garden|events": {
+      "company": "Optiver",
+      "programme": "Meet Optiver: Summer Evening at Sky Garden",
+      "notified_on": "2026-07-01"
+    },
+    "virtu-financial|2027 Internship - Quantitative Trading|summer-internships": {
+      "company": "Virtu Financial",
+      "programme": "2027 Internship - Quantitative Trading",
+      "notified_on": "2026-07-01"
     }
   },
-  "last_run": "2026-06-30T10:11:14.739228+00:00"
+  "last_run": "2026-07-01T10:18:50.288357+00:00"
 }
