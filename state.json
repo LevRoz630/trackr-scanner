@@ -154,7 +154,17 @@
       "company": "Virtu Financial",
       "programme": "2027 Internship - Quantitative Trading",
       "notified_on": "2026-07-01"
+    },
+    "william-blair|Women in Banking Programme - 2026|events": {
+      "company": "William Blair",
+      "programme": "Women in Banking Programme - 2026",
+      "notified_on": "2026-07-02"
+    },
+    "gsa-capital|Quantitative Reseacher - Intern|summer-internships": {
+      "company": "GSA Capital",
+      "programme": "Quantitative Reseacher - Intern",
+      "notified_on": "2026-07-02"
     }
   },
-  "last_run": "2026-07-01T10:18:50.288357+00:00"
+  "last_run": "2026-07-02T10:00:01.053568+00:00"
 }
