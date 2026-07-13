@@ -184,7 +184,17 @@
       "company": "M&G",
       "programme": "Shape Your Future: An Insight Into M&G",
       "notified_on": "2026-07-09"
+    },
+    "da-vinci-trading|2027 Quant Trading Intern|summer-internships": {
+      "company": "Da Vinci Trading",
+      "programme": "2027 Quant Trading Intern",
+      "notified_on": "2026-07-13"
+    },
+    "drw|Quantitative Trading Analyst Intern|summer-internships": {
+      "company": "DRW",
+      "programme": "Quantitative Trading Analyst Intern",
+      "notified_on": "2026-07-13"
     }
   },
-  "last_run": "2026-07-12T10:16:32.570040+00:00"
+  "last_run": "2026-07-13T11:47:53.799089+00:00"
 }
