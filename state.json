@@ -219,7 +219,17 @@
       "company": "Evercore",
       "programme": "Keystone Event",
       "notified_on": "2026-07-20"
+    },
+    "evercore|Women in Finance Event|events": {
+      "company": "Evercore",
+      "programme": "Women in Finance Event",
+      "notified_on": "2026-07-21"
+    },
+    "nomura|2026 Insider Series|events": {
+      "company": "Nomura",
+      "programme": "2026 Insider Series",
+      "notified_on": "2026-07-21"
     }
   },
-  "last_run": "2026-07-20T11:32:35.399510+00:00"
+  "last_run": "2026-07-21T10:54:09.776023+00:00"
 }
