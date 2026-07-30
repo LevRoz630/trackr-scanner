@@ -249,7 +249,22 @@
       "company": "Dimensional Fund Advisors",
       "programme": "Asset Management Insight Day - September 2026",
       "notified_on": "2026-07-28"
+    },
+    "citadel|2027 Associate Intern|summer-internships": {
+      "company": "Citadel",
+      "programme": "2027 Associate Intern",
+      "notified_on": "2026-07-30"
+    },
+    "squarepoint-capital|Intern Quant Researcher|summer-internships": {
+      "company": "Squarepoint Capital",
+      "programme": "Intern Quant Researcher",
+      "notified_on": "2026-07-30"
+    },
+    "citadel-securities|Trading & Quant Internship 2027|summer-internships": {
+      "company": "Citadel Securities",
+      "programme": "Trading & Quant Internship 2027",
+      "notified_on": "2026-07-30"
     }
   },
-  "last_run": "2026-07-29T11:12:07.225064+00:00"
+  "last_run": "2026-07-30T10:56:04.346764+00:00"
 }
