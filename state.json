@@ -289,7 +289,27 @@
       "company": "Millennium Management",
       "programme": "2027 Non-Investment Summer Intern",
       "notified_on": "2026-08-02"
+    },
+    "g-research|Pub Quiz: London 2026|events": {
+      "company": "G-Research",
+      "programme": "Pub Quiz: London 2026",
+      "notified_on": "2026-08-03"
+    },
+    "atlas-holdings|Private Equity Summer Internship 2027|summer-internships": {
+      "company": "Atlas Holdings",
+      "programme": "Private Equity Summer Internship 2027",
+      "notified_on": "2026-08-03"
+    },
+    "jane-street|Sales and Trading: Intern Summer 2027|summer-internships": {
+      "company": "Jane Street",
+      "programme": "Sales and Trading: Intern Summer 2027",
+      "notified_on": "2026-08-03"
+    },
+    "bank-of-america|Summer 2027 Analyst Programme|summer-internships": {
+      "company": "Bank of America",
+      "programme": "Summer 2027 Analyst Programme",
+      "notified_on": "2026-08-03"
     }
   },
-  "last_run": "2026-08-02T10:22:36.325602+00:00"
+  "last_run": "2026-08-03T12:09:39.402532+00:00"
 }
