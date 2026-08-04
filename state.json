@@ -309,7 +309,12 @@
       "company": "Bank of America",
       "programme": "Summer 2027 Analyst Programme",
       "notified_on": "2026-08-03"
+    },
+    "btg-pactual|Summer Undergrad 2027|summer-internships": {
+      "company": "BTG Pactual",
+      "programme": "Summer Undergrad 2027",
+      "notified_on": "2026-08-04"
     }
   },
-  "last_run": "2026-08-03T12:09:39.402532+00:00"
+  "last_run": "2026-08-04T11:12:27.200789+00:00"
 }
