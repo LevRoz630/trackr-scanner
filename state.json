@@ -319,7 +319,27 @@
       "company": "Hudson River Trading",
       "programme": "Quant Research & Trading Internship - Summer 2027",
       "notified_on": "2026-08-05"
+    },
+    "smbc|Women in Finance Insight Day|events": {
+      "company": "SMBC",
+      "programme": "Women in Finance Insight Day",
+      "notified_on": "2026-08-06"
+    },
+    "qatalyst-partners|2027 M&A Advisory Summer Internship|summer-internships": {
+      "company": "Qatalyst Partners",
+      "programme": "2027 M&A Advisory Summer Internship",
+      "notified_on": "2026-08-06"
+    },
+    "jane-street|Quantitative Trading Intern Summer 2027|summer-internships": {
+      "company": "Jane Street",
+      "programme": "Quantitative Trading Intern Summer 2027",
+      "notified_on": "2026-08-06"
+    },
+    "smbc|Summer Intern Programme 2027|summer-internships": {
+      "company": "SMBC",
+      "programme": "Summer Intern Programme 2027",
+      "notified_on": "2026-08-06"
     }
   },
-  "last_run": "2026-08-05T11:09:59.488578+00:00"
+  "last_run": "2026-08-06T11:10:35.493956+00:00"
 }
