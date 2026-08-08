@@ -339,7 +339,17 @@
       "company": "SMBC",
       "programme": "Summer Intern Programme 2027",
       "notified_on": "2026-08-06"
+    },
+    "bloomberg|Discover Bloomberg - London 2026|events": {
+      "company": "Bloomberg",
+      "programme": "Discover Bloomberg - London 2026",
+      "notified_on": "2026-08-08"
+    },
+    "hines|2026 Summer Analyst|summer-internships": {
+      "company": "Hines",
+      "programme": "2026 Summer Analyst",
+      "notified_on": "2026-08-08"
     }
   },
-  "last_run": "2026-08-07T09:47:16.647739+00:00"
+  "last_run": "2026-08-08T09:25:07.325998+00:00"
 }
