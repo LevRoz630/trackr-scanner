@@ -399,7 +399,22 @@
       "company": "Goldman Sachs",
       "programme": "2027 Summer Analyst Programme",
       "notified_on": "2026-08-15"
+    },
+    "ubs|2027 Summer Internship|summer-internships": {
+      "company": "UBS",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-08-17"
+    },
+    "standard-chartered|Internship Programme 2027|summer-internships": {
+      "company": "Standard Chartered",
+      "programme": "Internship Programme 2027",
+      "notified_on": "2026-08-17"
+    },
+    "evercore|Summer Internship (2027)|summer-internships": {
+      "company": "Evercore",
+      "programme": "Summer Internship (2027)",
+      "notified_on": "2026-08-17"
     }
   },
-  "last_run": "2026-08-16T09:15:19.035888+00:00"
+  "last_run": "2026-08-17T09:27:27.941589+00:00"
 }
