@@ -414,7 +414,27 @@
       "company": "Evercore",
       "programme": "Summer Internship (2027)",
       "notified_on": "2026-08-17"
+    },
+    "liontree|2027 Summer Internship Programme|summer-internships": {
+      "company": "LionTree",
+      "programme": "2027 Summer Internship Programme",
+      "notified_on": "2026-08-18"
+    },
+    "bnp-paribas|2027 Summer Internship Programme|summer-internships": {
+      "company": "BNP Paribas",
+      "programme": "2027 Summer Internship Programme",
+      "notified_on": "2026-08-18"
+    },
+    "xantium|Quantitative Researcher Internship|summer-internships": {
+      "company": "Xantium",
+      "programme": "Quantitative Researcher Internship",
+      "notified_on": "2026-08-18"
+    },
+    "walter-scott|Summer Internship Opportunities 2027|summer-internships": {
+      "company": "Walter Scott",
+      "programme": "Summer Internship Opportunities 2027",
+      "notified_on": "2026-08-18"
     }
   },
-  "last_run": "2026-08-17T09:27:27.941589+00:00"
+  "last_run": "2026-08-18T09:19:39.894886+00:00"
 }
