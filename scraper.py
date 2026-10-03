@@ -4,6 +4,7 @@
 import itertools
 import json
 import os
+import time
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -51,8 +52,8 @@ def fetch_listings(region, industry, season, listing_type):
     )
     resp.raise_for_status()
     data = resp.json()
-    # Normal responses are {"programmes": [...], "groups": [...]}. Once the
-    # 100-requests/day quota is spent, the API returns 200 with a bare [].
+    # Normal responses are {"programmes": [...], "groups": [...]}. When a rate
+    # limit is hit (100/day or 10 per 5s), the API returns 200 with a bare [].
     if not isinstance(data, dict):
         raise RuntimeError(f"rate limited ({resp.headers.get('ratelimit', 'no ratelimit header')})")
     return data["programmes"]
@@ -148,6 +149,7 @@ def main():
     for region, industry, season, typ in itertools.product(regions, industries, seasons, types):
         label = f"{region} {industry} {typ} {season}"
         print(f"Fetching {label}...")
+        time.sleep(1)  # stay under the API's 10-requests-per-5s burst limit
         try:
             listings = fetch_listings(region, industry, season, typ)
             print(f"  {len(listings)} listings")
