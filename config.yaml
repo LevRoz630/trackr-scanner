@@ -1,6 +1,6 @@
 # What to scan — the scraper queries every combination of these
-regions: [UK, EU]                    # UK, NA, EU
-industries: [Finance, Technology]    # Finance, Technology, Law
+regions: [UK, France, Germany, Italy]  # UK, US, EU (2026 only), France, Germany, Italy, Hong Kong
+industries: [Finance, Tech]          # Finance, Tech, Law, Engineering
 seasons: ["2027"]
 types:
   - spring-weeks

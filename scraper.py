@@ -50,7 +50,12 @@ def fetch_listings(region, industry, season, listing_type):
         timeout=30,
     )
     resp.raise_for_status()
-    return resp.json()
+    data = resp.json()
+    # Normal responses are {"programmes": [...], "groups": [...]}. Once the
+    # 100-requests/day quota is spent, the API returns 200 with a bare [].
+    if not isinstance(data, dict):
+        raise RuntimeError(f"rate limited ({resp.headers.get('ratelimit', 'no ratelimit header')})")
+    return data["programmes"]
 
 
 def listing_key(item):
@@ -133,6 +138,7 @@ def main():
 
     today = date.today().isoformat()
     all_listings = []
+    failures = 0
 
     regions = config.get("regions", ["UK"])
     industries = config.get("industries", ["Finance"])
@@ -148,6 +154,7 @@ def main():
             all_listings.extend(listings)
         except Exception as e:
             print(f"  Error: {e}")
+            failures += 1
 
     # find listings that are currently open and we haven't notified about
     newly_open = [
@@ -176,6 +183,9 @@ def main():
         send_email(subject, body, config)
     else:
         print("No new openings")
+
+    if failures:
+        raise SystemExit(f"{failures} fetch(es) failed — see errors above")
 
 
 if __name__ == "__main__":
