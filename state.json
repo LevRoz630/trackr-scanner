@@ -2009,7 +2009,37 @@
       "company": "Deutsche Bank",
       "programme": "Das Deutsche Bank Praktikum: Global Markets 2027",
       "notified_on": "2026-10-03"
+    },
+    "kline-hill-partners|Summer 2027 Intern|spring-weeks": {
+      "company": "Kline Hill Partners",
+      "programme": "Summer 2027 Intern",
+      "notified_on": "2026-10-04"
+    },
+    "oc-c|Associate Consultant Summer Internship 2027|summer-internships": {
+      "company": "OC&C",
+      "programme": "Associate Consultant Summer Internship 2027",
+      "notified_on": "2026-10-04"
+    },
+    "citi|Investment Banking, Real Estate, Summer Analyst, 2027|summer-internships": {
+      "company": "Citi",
+      "programme": "Investment Banking, Real Estate, Summer Analyst, 2027",
+      "notified_on": "2026-10-04"
+    },
+    "kline-hill-partners|Summer 2027 Intern|summer-internships": {
+      "company": "Kline Hill Partners",
+      "programme": "Summer 2027 Intern",
+      "notified_on": "2026-10-04"
+    },
+    "citi|Investment Banking - FIG, Summer Analyst, 2027|summer-internships": {
+      "company": "Citi",
+      "programme": "Investment Banking - FIG, Summer Analyst, 2027",
+      "notified_on": "2026-10-04"
+    },
+    "alloyed|Software Engineering Summer Internship|summer-internships": {
+      "company": "Alloyed",
+      "programme": "Software Engineering Summer Internship",
+      "notified_on": "2026-10-04"
     }
   },
-  "last_run": "2026-10-03T14:01:27.122674+00:00"
+  "last_run": "2026-10-04T14:28:57.338976+00:00"
 }
