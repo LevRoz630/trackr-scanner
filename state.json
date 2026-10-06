@@ -2154,7 +2154,57 @@
       "company": "Schonfeld",
       "programme": "2027 DMFI Quant Developer Intern",
       "notified_on": "2026-10-05"
+    },
+    "citadel|Discover Citadel | Citadel Securities|spring-weeks": {
+      "company": "Citadel",
+      "programme": "Discover Citadel | Citadel Securities",
+      "notified_on": "2026-10-06"
+    },
+    "future-planet-capital|Venture Capital Micro-Internship - December 2026|spring-weeks": {
+      "company": "Future Planet Capital",
+      "programme": "Venture Capital Micro-Internship - December 2026",
+      "notified_on": "2026-10-06"
+    },
+    "citadel-securities|Citadel Securities EMEA Quant Invitational|events": {
+      "company": "Citadel Securities",
+      "programme": "Citadel Securities EMEA Quant Invitational",
+      "notified_on": "2026-10-06"
+    },
+    "royal-london|2027 Summer Internship|summer-internships": {
+      "company": "Royal London",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-10-06"
+    },
+    "deutsche-bank|Corporate Banking Internship Programme 2027|summer-internships": {
+      "company": "Deutsche Bank",
+      "programme": "Corporate Banking Internship Programme 2027",
+      "notified_on": "2026-10-06"
+    },
+    "pgim|PGIM Institutional Client Group | 2027 Summer Internship|summer-internships": {
+      "company": "PGIM",
+      "programme": "PGIM Institutional Client Group | 2027 Summer Internship",
+      "notified_on": "2026-10-06"
+    },
+    "jefferies|2027 Asset Management Summer Internship Programme|summer-internships": {
+      "company": "Jefferies",
+      "programme": "2027 Asset Management Summer Internship Programme",
+      "notified_on": "2026-10-06"
+    },
+    "deutsche-bank|Management Consulting Internship Programme 2027|summer-internships": {
+      "company": "Deutsche Bank",
+      "programme": "Management Consulting Internship Programme 2027",
+      "notified_on": "2026-10-06"
+    },
+    "oxford-properties-group|Intern, Real Estate Investments|summer-internships": {
+      "company": "Oxford Properties Group",
+      "programme": "Intern, Real Estate Investments",
+      "notified_on": "2026-10-06"
+    },
+    "fidelity-international|Sales & Marketing Summer Internship 2027|summer-internships": {
+      "company": "Fidelity International",
+      "programme": "Sales & Marketing Summer Internship 2027",
+      "notified_on": "2026-10-06"
     }
   },
-  "last_run": "2026-10-05T17:31:04.490131+00:00"
+  "last_run": "2026-10-06T15:31:08.449990+00:00"
 }
