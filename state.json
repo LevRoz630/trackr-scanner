@@ -2204,7 +2204,97 @@
       "company": "Fidelity International",
       "programme": "Sales & Marketing Summer Internship 2027",
       "notified_on": "2026-10-06"
+    },
+    "pwc|Black Talent in Business|spring-weeks": {
+      "company": "PwC",
+      "programme": "Black Talent in Business",
+      "notified_on": "2026-10-07"
+    },
+    "pwc|Women in Business|spring-weeks": {
+      "company": "PwC",
+      "programme": "Women in Business",
+      "notified_on": "2026-10-07"
+    },
+    "pwc|Advancing Social Mobility|spring-weeks": {
+      "company": "PwC",
+      "programme": "Advancing Social Mobility",
+      "notified_on": "2026-10-07"
+    },
+    "optiver|Discover tech-driven trading|events": {
+      "company": "Optiver",
+      "programme": "Discover tech-driven trading",
+      "notified_on": "2026-10-07"
+    },
+    "deloitte|A Day with Deloitte: Planning your Future Impact|events": {
+      "company": "Deloitte",
+      "programme": "A Day with Deloitte: Planning your Future Impact",
+      "notified_on": "2026-10-07"
+    },
+    "morgan-stanley|2027 Non-Financial Risk Summer Analyst Programme|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Non-Financial Risk Summer Analyst Programme",
+      "notified_on": "2026-10-07"
+    },
+    "morgan-stanley|2027 Global Sales & Marketing Summer Analyst Programme|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Global Sales & Marketing Summer Analyst Programme",
+      "notified_on": "2026-10-07"
+    },
+    "morgan-stanley|2027 Operations Summer Analyst Programme|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Operations Summer Analyst Programme",
+      "notified_on": "2026-10-07"
+    },
+    "morgan-stanley|2027 Finance Summer Analyst Programme|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Finance Summer Analyst Programme",
+      "notified_on": "2026-10-07"
+    },
+    "sixth-street|2027 Summer Internship Program - UK Investing|summer-internships": {
+      "company": "Sixth Street",
+      "programme": "2027 Summer Internship Program - UK Investing",
+      "notified_on": "2026-10-07"
+    },
+    "weatherbys-private-bank|2027 Private Banking - Summer Internship|summer-internships": {
+      "company": "Weatherbys Private Bank",
+      "programme": "2027 Private Banking - Summer Internship",
+      "notified_on": "2026-10-07"
+    },
+    "acturis|Women in STEM Insight Day, Birmingham, November 2026|events": {
+      "company": "Acturis",
+      "programme": "Women in STEM Insight Day, Birmingham, November 2026",
+      "notified_on": "2026-10-07"
+    },
+    "acturis|Women in STEM Insight Day, London, November 2026|events": {
+      "company": "Acturis",
+      "programme": "Women in STEM Insight Day, London, November 2026",
+      "notified_on": "2026-10-07"
+    },
+    "bae-systems|Summer Intern Information Management and Technology|summer-internships": {
+      "company": "BAE Systems",
+      "programme": "Summer Intern Information Management and Technology",
+      "notified_on": "2026-10-07"
+    },
+    "bae-systems|Summer Intern Software Engineer|summer-internships": {
+      "company": "BAE Systems",
+      "programme": "Summer Intern Software Engineer",
+      "notified_on": "2026-10-07"
+    },
+    "clearwater-analytics|Software Development Intern|summer-internships": {
+      "company": "Clearwater Analytics",
+      "programme": "Software Development Intern",
+      "notified_on": "2026-10-07"
+    },
+    "microsoft|Software Engineer Intern|summer-internships": {
+      "company": "Microsoft",
+      "programme": "Software Engineer Intern",
+      "notified_on": "2026-10-07"
+    },
+    "johnson-matthey|Cyber Security Summer 2027 Intern|summer-internships": {
+      "company": "Johnson Matthey",
+      "programme": "Cyber Security Summer 2027 Intern",
+      "notified_on": "2026-10-07"
     }
   },
-  "last_run": "2026-10-06T15:31:08.449990+00:00"
+  "last_run": "2026-10-07T15:52:12.424201+00:00"
 }
