@@ -2339,7 +2339,42 @@
       "company": "Cirrus Logic",
       "programme": "Software Developer Internship",
       "notified_on": "2026-10-08"
+    },
+    "arena-investors|UK Analyst Program 2028|summer-internships": {
+      "company": "Ccaventus",
+      "programme": "UK Analyst Program 2028",
+      "notified_on": "2026-10-09"
+    },
+    "arena-investors|2027 Summer Investment Analyst|summer-internships": {
+      "company": "Ccaventus",
+      "programme": "2027 Summer Investment Analyst",
+      "notified_on": "2026-10-09"
+    },
+    "lendable|Credit Analyst Intern (June 2027)|summer-internships": {
+      "company": "Lendable",
+      "programme": "Credit Analyst Intern (June 2027)",
+      "notified_on": "2026-10-09"
+    },
+    "morgan-stanley|2027 Investment Management Summer Analyst Programme - Fixed Income|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Investment Management Summer Analyst Programme - Fixed Income",
+      "notified_on": "2026-10-09"
+    },
+    "ncr-atleos|Software Support Internship|summer-internships": {
+      "company": "NCR Atleos",
+      "programme": "Software Support Internship",
+      "notified_on": "2026-10-09"
+    },
+    "ncr-atleos|Software Engineering Internship|summer-internships": {
+      "company": "NCR Atleos",
+      "programme": "Software Engineering Internship",
+      "notified_on": "2026-10-09"
+    },
+    "mufg|2027 Summer Internship Programme: Markets Engineering|summer-internships": {
+      "company": "MUFG",
+      "programme": "2027 Summer Internship Programme: Markets Engineering",
+      "notified_on": "2026-10-09"
     }
   },
-  "last_run": "2026-10-08T15:55:26.853699+00:00"
+  "last_run": "2026-10-09T15:37:52.420319+00:00"
 }
