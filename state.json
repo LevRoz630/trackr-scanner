@@ -2374,7 +2374,42 @@
       "company": "MUFG",
       "programme": "2027 Summer Internship Programme: Markets Engineering",
       "notified_on": "2026-10-09"
+    },
+    "maven-securities|Women in Trading Spring Week 2027|spring-weeks": {
+      "company": "Maven Securities",
+      "programme": "Women in Trading Spring Week 2027",
+      "notified_on": "2026-10-10"
+    },
+    "kr8-advisory|Restructuring Advisory Intern|spring-weeks": {
+      "company": "KR8 Advisory",
+      "programme": "Restructuring Advisory Intern",
+      "notified_on": "2026-10-10"
+    },
+    "bloomberg|2026 Discover Bloomberg - London|events": {
+      "company": "Bloomberg",
+      "programme": "2026 Discover Bloomberg - London",
+      "notified_on": "2026-10-10"
+    },
+    "kr8-advisory|Restructuring Advisory Intern|summer-internships": {
+      "company": "KR8 Advisory",
+      "programme": "Restructuring Advisory Intern",
+      "notified_on": "2026-10-10"
+    },
+    "maven-securities|Women in Technology Spring Week 2027|spring-weeks": {
+      "company": "Maven Securities",
+      "programme": "Women in Technology Spring Week 2027",
+      "notified_on": "2026-10-10"
+    },
+    "riverlane|Software Engineering Internship 2027|summer-internships": {
+      "company": "Riverlane",
+      "programme": "Software Engineering Internship 2027",
+      "notified_on": "2026-10-10"
+    },
+    "willis-towers-watson|2027 Software Developer Internship|summer-internships": {
+      "company": "WTW",
+      "programme": "2027 Software Developer Internship",
+      "notified_on": "2026-10-10"
     }
   },
-  "last_run": "2026-10-09T15:37:52.420319+00:00"
+  "last_run": "2026-10-10T14:52:35.427335+00:00"
 }
