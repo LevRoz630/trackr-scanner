@@ -2414,7 +2414,47 @@
       "company": "Sailpoint",
       "programme": "Software Engineer Intern - Platform Engines",
       "notified_on": "2026-10-11"
+    },
+    "macquarie-group|2027 Spring Insight Programme|spring-weeks": {
+      "company": "Macquarie Group",
+      "programme": "2027 Spring Insight Programme",
+      "notified_on": "2026-10-12"
+    },
+    "amplifyme|Market & Banking Finance Accelerator|spring-weeks": {
+      "company": "AmplifyME",
+      "programme": "Market & Banking Finance Accelerator",
+      "notified_on": "2026-10-12"
+    },
+    "amplifyme|Market & Banking Finance Accelerator|summer-internships": {
+      "company": "AmplifyME",
+      "programme": "Market & Banking Finance Accelerator",
+      "notified_on": "2026-10-12"
+    },
+    "morgan-stanley|2027 Summer Analyst Programme - Office of the COO|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Summer Analyst Programme - Office of the COO",
+      "notified_on": "2026-10-12"
+    },
+    "mako-trading|Mako Summer Internship \u2013 Trading|summer-internships": {
+      "company": "Mako Trading",
+      "programme": "Mako Summer Internship \u2013 Trading",
+      "notified_on": "2026-10-12"
+    },
+    "morgan-stanley|2027 Summer Analyst Programme - Real Assets|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Summer Analyst Programme - Real Assets",
+      "notified_on": "2026-10-12"
+    },
+    "morgan-stanley|2027 Summer Analyst Programme - Fixed Income|summer-internships": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Summer Analyst Programme - Fixed Income",
+      "notified_on": "2026-10-12"
+    },
+    "capula-investment-management|2027 Technology Internship|summer-internships": {
+      "company": "Capula Investment Management",
+      "programme": "2027 Technology Internship",
+      "notified_on": "2026-10-12"
     }
   },
-  "last_run": "2026-10-11T15:10:18.032806+00:00"
+  "last_run": "2026-10-12T18:18:18.595789+00:00"
 }
