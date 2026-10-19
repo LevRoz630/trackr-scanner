@@ -2649,7 +2649,57 @@
       "company": "Atlanta Wealth",
       "programme": "Internship - Credit Analyst - Hedge Fund",
       "notified_on": "2026-10-17"
+    },
+    "lazard|2027 Spring Insight Programme|spring-weeks": {
+      "company": "Lazard",
+      "programme": "2027 Spring Insight Programme",
+      "notified_on": "2026-10-19"
+    },
+    "caledonia-investments|2027 Summer Internship|spring-weeks": {
+      "company": "Caledonia Investments",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-10-19"
+    },
+    "scotiabank|2027 UpLIFTED: Women In Finance Development Programme|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UpLIFTED: Women In Finance Development Programme",
+      "notified_on": "2026-10-19"
+    },
+    "citi|Investment Banking - CEE, Summer Analyst, 2027|summer-internships": {
+      "company": "Citi",
+      "programme": "Investment Banking - CEE, Summer Analyst, 2027",
+      "notified_on": "2026-10-19"
+    },
+    "caledonia-investments|2027 Summer Internship|summer-internships": {
+      "company": "Caledonia Investments",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-10-19"
+    },
+    "rothesay|2027 Summer Internship Programme - Software Engineering|summer-internships": {
+      "company": "Rothesay",
+      "programme": "2027 Summer Internship Programme - Software Engineering",
+      "notified_on": "2026-10-19"
+    },
+    "visa|Data Science Intern|summer-internships": {
+      "company": "Visa",
+      "programme": "Data Science Intern",
+      "notified_on": "2026-10-19"
+    },
+    "leonardo|Summer Placement Software Engineer|summer-internships": {
+      "company": "Leonardo",
+      "programme": "Summer Placement Software Engineer",
+      "notified_on": "2026-10-19"
+    },
+    "autodesk|Intern, Software Engineer|summer-internships": {
+      "company": "Autodesk",
+      "programme": "Intern, Software Engineer",
+      "notified_on": "2026-10-19"
+    },
+    "accenture|AI & Data 12 Week Summer Internship 2027|summer-internships": {
+      "company": "Accenture",
+      "programme": "AI & Data 12 Week Summer Internship 2027",
+      "notified_on": "2026-10-19"
     }
   },
-  "last_run": "2026-10-18T12:50:22.554481+00:00"
+  "last_run": "2026-10-19T15:57:01.029268+00:00"
 }
