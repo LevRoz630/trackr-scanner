@@ -2699,7 +2699,32 @@
       "company": "Accenture",
       "programme": "AI & Data 12 Week Summer Internship 2027",
       "notified_on": "2026-10-19"
+    },
+    "sse|Finance Summer Placement|summer-internships": {
+      "company": "SSE",
+      "programme": "Finance Summer Placement",
+      "notified_on": "2026-10-20"
+    },
+    "zs|Strategy Insights & Planning Associate Intern - London 2027|summer-internships": {
+      "company": "ZS",
+      "programme": "Strategy Insights & Planning Associate Intern - London 2027",
+      "notified_on": "2026-10-20"
+    },
+    "zs|Decision Analytics Associate Intern 2027|summer-internships": {
+      "company": "ZS",
+      "programme": "Decision Analytics Associate Intern 2027",
+      "notified_on": "2026-10-20"
+    },
+    "wise|Data Science Intern|summer-internships": {
+      "company": "Wise",
+      "programme": "Data Science Intern",
+      "notified_on": "2026-10-20"
+    },
+    "wise|Software Engineering Intern|summer-internships": {
+      "company": "Wise",
+      "programme": "Software Engineering Intern",
+      "notified_on": "2026-10-20"
     }
   },
-  "last_run": "2026-10-19T15:57:01.029268+00:00"
+  "last_run": "2026-10-20T13:55:40.150366+00:00"
 }
