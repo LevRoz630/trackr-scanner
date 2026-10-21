@@ -2724,7 +2724,27 @@
       "company": "Wise",
       "programme": "Software Engineering Intern",
       "notified_on": "2026-10-20"
+    },
+    "graphcore|Cloud Platform Summer Intern 2027|summer-internships": {
+      "company": "Graphcore",
+      "programme": "Cloud Platform Summer Intern 2027",
+      "notified_on": "2026-10-21"
+    },
+    "graphcore|Software Engineering Summer Intern, Drivers and Utilities 2027|summer-internships": {
+      "company": "Graphcore",
+      "programme": "Software Engineering Summer Intern, Drivers and Utilities 2027",
+      "notified_on": "2026-10-21"
+    },
+    "redgate|Software Engineer Internship 2027|summer-internships": {
+      "company": "Redgate",
+      "programme": "Software Engineer Internship 2027",
+      "notified_on": "2026-10-21"
+    },
+    "graphcore|Software Engineer Summer Intern, AI Compute Libraries & Performance 2027|summer-internships": {
+      "company": "Graphcore",
+      "programme": "Software Engineer Summer Intern, AI Compute Libraries & Performance 2027",
+      "notified_on": "2026-10-21"
     }
   },
-  "last_run": "2026-10-20T13:55:40.150366+00:00"
+  "last_run": "2026-10-21T14:12:02.319060+00:00"
 }
