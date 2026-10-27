@@ -2959,7 +2959,22 @@
       "company": "NERA",
       "programme": "NERA: Internship",
       "notified_on": "2026-10-26"
+    },
+    "graviton|Quantitative Researcher - 2027 Summer Internship|summer-internships": {
+      "company": "Graviton",
+      "programme": "Quantitative Researcher - 2027 Summer Internship",
+      "notified_on": "2026-10-27"
+    },
+    "aegon|Actuarial Intern (Summer 2027)|summer-internships": {
+      "company": "Aegon",
+      "programme": "Actuarial Intern (Summer 2027)",
+      "notified_on": "2026-10-27"
+    },
+    "amazon|2027 Software Dev Engineer Intern (Machine Learning)|summer-internships": {
+      "company": "Amazon",
+      "programme": "2027 Software Dev Engineer Intern (Machine Learning)",
+      "notified_on": "2026-10-27"
     }
   },
-  "last_run": "2026-10-26T15:33:46.146017+00:00"
+  "last_run": "2026-10-27T15:00:47.149905+00:00"
 }
