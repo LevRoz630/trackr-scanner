@@ -2974,7 +2974,92 @@
       "company": "Amazon",
       "programme": "2027 Software Dev Engineer Intern (Machine Learning)",
       "notified_on": "2026-10-27"
+    },
+    "lazard|Life at Lazard x AmplifyME|events": {
+      "company": "Lazard",
+      "programme": "Life at Lazard x AmplifyME",
+      "notified_on": "2026-11-01"
+    },
+    "institute-of-fiscal-studies|Economic Research Summer Intern|summer-internships": {
+      "company": "Institute of Fiscal Studies",
+      "programme": "Economic Research Summer Intern",
+      "notified_on": "2026-11-01"
+    },
+    "tp-icap|Global Broking Summer Internship 2027|summer-internships": {
+      "company": "TP ICAP",
+      "programme": "Global Broking Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "tp-icap|Compliance Summer Internship 2027|summer-internships": {
+      "company": "TP ICAP",
+      "programme": "Compliance Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "tp-icap|Internal Audit Summer Internship 2027|summer-internships": {
+      "company": "TP ICAP",
+      "programme": "Internal Audit Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "liquidnet|Equities Sales and Trading Summer Internship 2027|summer-internships": {
+      "company": "Liquidnet",
+      "programme": "Equities Sales and Trading Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "pa-consulting|2027 Summer Internship - Consulting Programme|summer-internships": {
+      "company": "PA Consulting",
+      "programme": "2027 Summer Internship - Consulting Programme",
+      "notified_on": "2026-11-01"
+    },
+    "charles-river-associates|2027 Summer Intern (Antitrust & Competition Economics Practice)|summer-internships": {
+      "company": "Charles River Associates",
+      "programme": "2027 Summer Intern (Antitrust & Competition Economics Practice)",
+      "notified_on": "2026-11-01"
+    },
+    "tp-icap|Risk Summer Internship 2027|summer-internships": {
+      "company": "TP ICAP",
+      "programme": "Risk Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "lockton|2027 Insurance Summer Internship|summer-internships": {
+      "company": "Lockton",
+      "programme": "2027 Insurance Summer Internship",
+      "notified_on": "2026-11-01"
+    },
+    "liquidnet|Fixed Income Sales Summer Internship 2027|summer-internships": {
+      "company": "Liquidnet",
+      "programme": "Fixed Income Sales Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "eqt|Summer Analyst Programme 2027 \u2013 Real Estate|summer-internships": {
+      "company": "EQT",
+      "programme": "Summer Analyst Programme 2027 \u2013 Real Estate",
+      "notified_on": "2026-11-01"
+    },
+    "olix|Software Engineering Intern|summer-internships": {
+      "company": "OLIX",
+      "programme": "Software Engineering Intern",
+      "notified_on": "2026-11-01"
+    },
+    "ptc|Software Engineering Summer Internship 2027|summer-internships": {
+      "company": "PTC",
+      "programme": "Software Engineering Summer Internship 2027",
+      "notified_on": "2026-11-01"
+    },
+    "cloudflare|Software Engineer - Intern (Summer 2027)|summer-internships": {
+      "company": "Cloudflare",
+      "programme": "Software Engineer - Intern (Summer 2027)",
+      "notified_on": "2026-11-01"
+    },
+    "balyasny-asset-management|Quantitative Developer - Commodities Investment Team (Summer Internship)|summer-internships": {
+      "company": "Balyasny Asset Management",
+      "programme": "Quantitative Developer - Commodities Investment Team (Summer Internship)",
+      "notified_on": "2026-11-01"
+    },
+    "allegro-microsystems|3 Months Summer Placement - Internship|summer-internships": {
+      "company": "Allegro MicroSystems",
+      "programme": "3 Months Summer Placement - Internship",
+      "notified_on": "2026-11-01"
     }
   },
-  "last_run": "2026-10-31T14:56:10.780346+00:00"
+  "last_run": "2026-11-01T15:34:22.678163+00:00"
 }
