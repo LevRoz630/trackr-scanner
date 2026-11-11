@@ -3229,7 +3229,122 @@
       "company": "Wells Fargo",
       "programme": "Technology Internship Program",
       "notified_on": "2026-11-07"
+    },
+    "scotiabank|2027 UK Finance Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UK Finance Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "scotiabank|2027 UK Global Transaction Banking Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UK Global Transaction Banking Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "deloitte|Spring into Deloitte: Finance (Inspiring Women)|spring-weeks": {
+      "company": "Deloitte",
+      "programme": "Spring into Deloitte: Finance (Inspiring Women)",
+      "notified_on": "2026-11-11"
+    },
+    "scotiabank|2027 UK Audit Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UK Audit Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "hsbc|Women in Banking - Insight Programme|spring-weeks": {
+      "company": "HSBC",
+      "programme": "Women in Banking - Insight Programme",
+      "notified_on": "2026-11-11"
+    },
+    "scotiabank|2027 UK Treasury Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UK Treasury Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "deloitte|Spring Into Deloitte: Advisory|spring-weeks": {
+      "company": "Deloitte",
+      "programme": "Spring Into Deloitte: Advisory",
+      "notified_on": "2026-11-11"
+    },
+    "scotiabank|2027 UK Business Risk Management Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 UK Business Risk Management Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "g-research|London Quant Challenge 2026|events": {
+      "company": "G-Research",
+      "programme": "London Quant Challenge 2026",
+      "notified_on": "2026-11-11"
+    },
+    "lse-aic|AIC Startup Competition|events": {
+      "company": "LSE AIC",
+      "programme": "AIC Startup Competition",
+      "notified_on": "2026-11-11"
+    },
+    "rothschild-co|2026 Discover Rothschild & Co Insight Day|events": {
+      "company": "Rothschild & Co.",
+      "programme": "2026 Discover Rothschild & Co Insight Day",
+      "notified_on": "2026-11-11"
+    },
+    "aspect-capital|Short Term Research Intern|summer-internships": {
+      "company": "Aspect Capital",
+      "programme": "Short Term Research Intern",
+      "notified_on": "2026-11-11"
+    },
+    "m-g|Risk & Compliance Internship|summer-internships": {
+      "company": "M&G",
+      "programme": "Risk & Compliance Internship",
+      "notified_on": "2026-11-11"
+    },
+    "hsbc|Sheffield Tech Insight Programme|spring-weeks": {
+      "company": "HSBC",
+      "programme": "Sheffield Tech Insight Programme",
+      "notified_on": "2026-11-11"
+    },
+    "hsbc|Women in Technology - Insight Programme|spring-weeks": {
+      "company": "HSBC",
+      "programme": "Women in Technology - Insight Programme",
+      "notified_on": "2026-11-11"
+    },
+    "scotiabank|2027 Technology Summer Internship|spring-weeks": {
+      "company": "Scotiabank",
+      "programme": "2027 Technology Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "addepar|Data Intern - Summer 2027|summer-internships": {
+      "company": "Addepar",
+      "programme": "Data Intern - Summer 2027",
+      "notified_on": "2026-11-11"
+    },
+    "national-grid|Cyber Security Summer Internship|summer-internships": {
+      "company": "National Grid",
+      "programme": "Cyber Security Summer Internship",
+      "notified_on": "2026-11-11"
+    },
+    "citi|Technology - Application Development, Summer Analyst 2027|summer-internships": {
+      "company": "Citi",
+      "programme": "Technology - Application Development, Summer Analyst 2027",
+      "notified_on": "2026-11-11"
+    },
+    "pexip|Summer internship - Software Engineers|summer-internships": {
+      "company": "Pexip",
+      "programme": "Summer internship - Software Engineers",
+      "notified_on": "2026-11-11"
+    },
+    "ibm|Data Insights, Analytics & Technology Intern|summer-internships": {
+      "company": "IBM",
+      "programme": "Data Insights, Analytics & Technology Intern",
+      "notified_on": "2026-11-11"
+    },
+    "addepar|Software Engineering Intern - Summer 2027|summer-internships": {
+      "company": "Addepar",
+      "programme": "Software Engineering Intern - Summer 2027",
+      "notified_on": "2026-11-11"
+    },
+    "salesforce|Engineering Intern|summer-internships": {
+      "company": "Salesforce",
+      "programme": "Engineering Intern",
+      "notified_on": "2026-11-11"
     }
   },
-  "last_run": "2026-11-09T19:19:35.314121+00:00"
+  "last_run": "2026-11-11T16:46:17.022949+00:00"
 }
