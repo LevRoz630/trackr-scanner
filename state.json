@@ -3344,7 +3344,37 @@
       "company": "Salesforce",
       "programme": "Engineering Intern",
       "notified_on": "2026-11-11"
+    },
+    "citi|Banking, Commercial Banking, Summer Analyst, Milan - Italy 2027|summer-internships": {
+      "company": "Citi",
+      "programme": "Banking, Commercial Banking, Summer Analyst, Milan - Italy 2027",
+      "notified_on": "2026-11-12"
+    },
+    "fti-consulting|2027 Intern, Corporate Finance|summer-internships": {
+      "company": "FTI Consulting",
+      "programme": "2027 Intern, Corporate Finance",
+      "notified_on": "2026-11-12"
+    },
+    "oliver-wyman|Consultant Intern|summer-internships": {
+      "company": "Oliver Wyman",
+      "programme": "Consultant Intern",
+      "notified_on": "2026-11-12"
+    },
+    "bending-spoons|Growth Manager, Summer Intern|summer-internships": {
+      "company": "Bending Spoons",
+      "programme": "Growth Manager, Summer Intern",
+      "notified_on": "2026-11-12"
+    },
+    "pimco|2027 Summer Intern - Account Analyst, Milan (Italian Speaking)|summer-internships": {
+      "company": "PIMCO",
+      "programme": "2027 Summer Intern - Account Analyst, Milan (Italian Speaking)",
+      "notified_on": "2026-11-12"
+    },
+    "j-p-morgan|2027 Global Private Bank - Advisor Summer Internship Program - Milan|summer-internships": {
+      "company": "J.P. Morgan",
+      "programme": "2027 Global Private Bank - Advisor Summer Internship Program - Milan",
+      "notified_on": "2026-11-12"
     }
   },
-  "last_run": "2026-11-11T16:46:17.022949+00:00"
+  "last_run": "2026-11-12T17:14:26.017199+00:00"
 }
