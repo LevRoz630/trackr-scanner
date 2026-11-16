@@ -3374,7 +3374,87 @@
       "company": "J.P. Morgan",
       "programme": "2027 Global Private Bank - Advisor Summer Internship Program - Milan",
       "notified_on": "2026-11-12"
+    },
+    "fidelity-international|2027 Spring Insight Programme|spring-weeks": {
+      "company": "Fidelity International",
+      "programme": "2027 Spring Insight Programme",
+      "notified_on": "2026-11-16"
+    },
+    "fidelity-international|2027 Women in Investment Management Spring Insight Programme |spring-weeks": {
+      "company": "Fidelity International",
+      "programme": "2027 Women in Investment Management Spring Insight Programme ",
+      "notified_on": "2026-11-16"
+    },
+    "pa-consulting|2027 PA Futures - Women in Consulting|spring-weeks": {
+      "company": "PA Consulting",
+      "programme": "2027 PA Futures - Women in Consulting",
+      "notified_on": "2026-11-16"
+    },
+    "bank-of-england|2027 Summer Internship Programme|summer-internships": {
+      "company": "Bank of England",
+      "programme": "2027 Summer Internship Programme",
+      "notified_on": "2026-11-16"
+    },
+    "bmll|Internship - Junior Quantitative Analyst|summer-internships": {
+      "company": "BMLL",
+      "programme": "Internship - Junior Quantitative Analyst",
+      "notified_on": "2026-11-16"
+    },
+    "mfs|Summer 2027 Global Client Service Intern|summer-internships": {
+      "company": "MFS",
+      "programme": "Summer 2027 Global Client Service Intern",
+      "notified_on": "2026-11-16"
+    },
+    "crowdstrike|Intelligence Launch Intern - Summer 2027|spring-weeks": {
+      "company": "Crowdstrike",
+      "programme": "Intelligence Launch Intern - Summer 2027",
+      "notified_on": "2026-11-16"
+    },
+    "morgan-stanley|2027 Technology Spring Insight|spring-weeks": {
+      "company": "Morgan Stanley",
+      "programme": "2027 Technology Spring Insight",
+      "notified_on": "2026-11-16"
+    },
+    "pa-consulting|2027 PA Futures - Women in Tech|spring-weeks": {
+      "company": "PA Consulting",
+      "programme": "2027 PA Futures - Women in Tech",
+      "notified_on": "2026-11-16"
+    },
+    "bgc-group|2027 Technology Summer Internship Programme - Development|summer-internships": {
+      "company": "BGC Group",
+      "programme": "2027 Technology Summer Internship Programme - Development",
+      "notified_on": "2026-11-16"
+    },
+    "crowdstrike|Intelligence Intern - Summer 2027|summer-internships": {
+      "company": "Crowdstrike",
+      "programme": "Intelligence Intern - Summer 2027",
+      "notified_on": "2026-11-16"
+    },
+    "visa|Software Engineer Intern|summer-internships": {
+      "company": "Visa",
+      "programme": "Software Engineer Intern",
+      "notified_on": "2026-11-16"
+    },
+    "apple|Camera Software (Intern)|summer-internships": {
+      "company": "Apple",
+      "programme": "Camera Software (Intern)",
+      "notified_on": "2026-11-16"
+    },
+    "st-james-s-place|Technology Summer Internship Programme|summer-internships": {
+      "company": "St James's Place",
+      "programme": "Technology Summer Internship Programme",
+      "notified_on": "2026-11-16"
+    },
+    "m-g|Technology Internship|summer-internships": {
+      "company": "M&G",
+      "programme": "Technology Internship",
+      "notified_on": "2026-11-16"
+    },
+    "apple|Internship - Pro Apps Machine Learning Ecosystem Engineer|summer-internships": {
+      "company": "Apple",
+      "programme": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
+      "notified_on": "2026-11-16"
     }
   },
-  "last_run": "2026-11-15T15:59:53.118984+00:00"
+  "last_run": "2026-11-16T19:02:34.439713+00:00"
 }
