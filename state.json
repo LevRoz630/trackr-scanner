@@ -3464,7 +3464,82 @@
       "company": "St James's Place",
       "programme": "2027 Investment Internship Programme",
       "notified_on": "2026-11-20"
+    },
+    "d-e-shaw|Insight Programme 2027|spring-weeks": {
+      "company": "D.E. Shaw",
+      "programme": "Insight Programme 2027",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight \u2013 Global Payments Solutions & Enterprise Credit|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight \u2013 Global Payments Solutions & Enterprise Credit",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight - Operations, Technology & Finance (Chester)|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight - Operations, Technology & Finance (Chester)",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight \u2013 Global Corporate & Investment Banking|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight \u2013 Global Corporate & Investment Banking",
+      "notified_on": "2026-11-21"
+    },
+    "five-rings|QT Connect 2027|spring-weeks": {
+      "company": "Five Rings",
+      "programme": "QT Connect 2027",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight - Global Markets|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight - Global Markets",
+      "notified_on": "2026-11-21"
+    },
+    "gsa-capital|GSA SPARK|events": {
+      "company": "GSA Capital",
+      "programme": "GSA SPARK",
+      "notified_on": "2026-11-21"
+    },
+    "control-risks|Summer 2027 Consulting Intern Programme|summer-internships": {
+      "company": "Control Risks",
+      "programme": "Summer 2027 Consulting Intern Programme",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight \u2013 Global Technology \u2013 Dublin|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight \u2013 Global Technology \u2013 Dublin",
+      "notified_on": "2026-11-21"
+    },
+    "bank-of-america|2027 Spring Insight \u2013 Operations, Technology & Finance \u2013 Chester|spring-weeks": {
+      "company": "Bank of America",
+      "programme": "2027 Spring Insight \u2013 Operations, Technology & Finance \u2013 Chester",
+      "notified_on": "2026-11-21"
+    },
+    "axon|2027 Software Engineering Internship|summer-internships": {
+      "company": "Axon",
+      "programme": "2027 Software Engineering Internship",
+      "notified_on": "2026-11-21"
+    },
+    "tpp|Summer Internship - Software Developer|summer-internships": {
+      "company": "TPP",
+      "programme": "Summer Internship - Software Developer",
+      "notified_on": "2026-11-21"
+    },
+    "aveva|Software Developer Intern|summer-internships": {
+      "company": "AVEVA",
+      "programme": "Software Developer Intern",
+      "notified_on": "2026-11-21"
+    },
+    "cme-group|Data Analytics Summer Internship|summer-internships": {
+      "company": "CME Group",
+      "programme": "Data Analytics Summer Internship",
+      "notified_on": "2026-11-21"
+    },
+    "cadence|Intern Software Engineer, Summer 2027|summer-internships": {
+      "company": "Cadence",
+      "programme": "Intern Software Engineer, Summer 2027",
+      "notified_on": "2026-11-21"
     }
   },
-  "last_run": "2026-11-20T17:26:57.572863+00:00"
+  "last_run": "2026-11-21T16:31:15.095592+00:00"
 }
