@@ -3539,7 +3539,92 @@
       "company": "Cadence",
       "programme": "Intern Software Engineer, Summer 2027",
       "notified_on": "2026-11-21"
+    },
+    "bending-spoons|First Venture|spring-weeks": {
+      "company": "Bending Spoons",
+      "programme": "First Venture",
+      "notified_on": "2026-11-26"
+    },
+    "first-wealth|Summer Internship 2027|spring-weeks": {
+      "company": "First Wealth",
+      "programme": "Summer Internship 2027",
+      "notified_on": "2026-11-26"
+    },
+    "citadel|Fixed Income and Macro Central Bank Challenge|spring-weeks": {
+      "company": "Citadel",
+      "programme": "Fixed Income and Macro Central Bank Challenge",
+      "notified_on": "2026-11-26"
+    },
+    "lcp|Investment Women's Talent Academy 2027|events": {
+      "company": "LCP",
+      "programme": "Investment Women's Talent Academy 2027",
+      "notified_on": "2026-11-26"
+    },
+    "axa|2027 Summer Internship|summer-internships": {
+      "company": "AXA",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-11-26"
+    },
+    "rsm|Internship 2027|summer-internships": {
+      "company": "RSM",
+      "programme": "Internship 2027",
+      "notified_on": "2026-11-26"
+    },
+    "nationwide|2027 Summer Internship|summer-internships": {
+      "company": "Nationwide",
+      "programme": "2027 Summer Internship",
+      "notified_on": "2026-11-26"
+    },
+    "first-wealth|Summer Internship 2027|summer-internships": {
+      "company": "First Wealth",
+      "programme": "Summer Internship 2027",
+      "notified_on": "2026-11-26"
+    },
+    "severn-trent|Summer Placement - Finance|summer-internships": {
+      "company": "Severn Trent",
+      "programme": "Summer Placement - Finance",
+      "notified_on": "2026-11-26"
+    },
+    "plural-strategy|Strategy Consulting Intern|summer-internships": {
+      "company": "Plural Strategy",
+      "programme": "Strategy Consulting Intern",
+      "notified_on": "2026-11-26"
+    },
+    "runna|AI Engineer Intern|summer-internships": {
+      "company": "Runna",
+      "programme": "AI Engineer Intern",
+      "notified_on": "2026-11-26"
+    },
+    "severn-trent|Summer Placement - Data Analyst|summer-internships": {
+      "company": "Severn Trent",
+      "programme": "Summer Placement - Data Analyst",
+      "notified_on": "2026-11-26"
+    },
+    "capital-one|Technology Summer Internship|summer-internships": {
+      "company": "Capital One",
+      "programme": "Technology Summer Internship",
+      "notified_on": "2026-11-26"
+    },
+    "financial-conduct-authority|2027 Data, Digital & Technology Summer Internship|summer-internships": {
+      "company": "Financial Conduct Authority",
+      "programme": "2027 Data, Digital & Technology Summer Internship",
+      "notified_on": "2026-11-26"
+    },
+    "runna|Full Stack Engineer Intern, Growth|summer-internships": {
+      "company": "Runna",
+      "programme": "Full Stack Engineer Intern, Growth",
+      "notified_on": "2026-11-26"
+    },
+    "severn-trent|Summer Placement - Cyber|summer-internships": {
+      "company": "Severn Trent",
+      "programme": "Summer Placement - Cyber",
+      "notified_on": "2026-11-26"
+    },
+    "nationwide|Technology Summer Internship 2027|summer-internships": {
+      "company": "Nationwide",
+      "programme": "Technology Summer Internship 2027",
+      "notified_on": "2026-11-26"
     }
   },
-  "last_run": "2026-11-25T18:55:44.498775+00:00"
+  "last_run": "2026-11-26T18:44:51.247047+00:00"
 }
